@@ -1,0 +1,41 @@
+.main_header{
+    padding: 10px 10px;
+    width: 100%;
+}
+.main_header .container{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.main_header .logo{
+    padding-left: 50px;
+}
+.main_header .search_box{
+    padding-top: 20px;
+    margin-right: 20px;
+}
+.main_header .search_box input{
+    outline: none;
+    padding: 7px 12px;
+    border: 1.5px solid #064F26 ;
+    border-radius: 3px;
+}
+.main_header .logo1{
+    padding-top: 10px;
+}
+.main_header .signUp{
+    padding: 5px;
+    text-align: center;
+    /* border: 1px solid #064F26; */
+      
+    
+}
+.main_header .signUp button{
+    /* padding-top: 30px; */
+    padding: 5px;
+    background-color: #064F26;
+    border-radius: 4px;
+    color: white;
+    /* border-width: 10px; */
+
+}
